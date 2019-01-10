@@ -1,1 +1,2 @@
-Line 1 Staged File_remote_local
+Line 1 Staged File_user2
+
